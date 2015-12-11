@@ -1,0 +1,24 @@
+{
+    "name": "simple-express-server",
+    "version": "0.0.1",
+    "description": "A simple express server to serve what ever is needed.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brizrobbo/simple-express-server.git"
+    },
+    "author": "Craig Robinson",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/brizrobbo/simple-express-server/issues"
+    },
+    "homepage": "https://github.com/brizrobbo/simple-express-server#readme",
+    "dependencies": {
+        "express": "latest",
+        "nodemon": "latest",
+        "forever": "latest"
+    }
+}
